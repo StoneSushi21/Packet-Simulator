@@ -1,6 +1,8 @@
 # Packet-Simulator
 Simulation of network packets being sent through a network of routers
-
+V1.0.0
++Capable of simulating any number on packets being transfered through any number of routers
++Simulates traffic in connections
 
 Initially made a version in desmos, but was stopped by the limitations of Desmos
 + Nice visuals
