@@ -10,5 +10,12 @@ Initially made a version in desmos, but was stopped by the limitations of Desmos
 + Real time simulation
 + Only one packet Max
 + Only linear path
-
+  
 Created a simplified version without the redundant elements: https://www.desmos.com/calculator/tki8rmdy3s
+
+
+Made for Network Programming COMP2100 at Wentworth Institute of Technology, network modeling assignment
+
+
+
+
