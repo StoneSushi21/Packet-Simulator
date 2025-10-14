@@ -5,7 +5,7 @@ V1.0.0:
 Capable of simulating any number on packets being transfered through any number of routers
 Simulates traffic in connections
 
-Initially made a version in desmos, but was stopped by the limitations of Desmos: https://www.desmos.com/calculator/zunmgmfeap
+Initially made a version in desmos, but was stopped by the limitations of Desmos: https://www.desmos.com/calculator/c2rowyvhlq
 + Nice visuals
 + Real time simulation
 + Only one packet Max
